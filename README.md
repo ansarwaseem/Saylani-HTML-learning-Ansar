@@ -41,6 +41,13 @@ Work with images, image optimization, and media embedding in HTML.
 
 ---
 
+### [Assignment 06 - Tables](./Assignment-06-Tables)
+**Repository:** [Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-06-Tables](https://github.com/ansarwaseem/Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-06-Tables)
+
+Learn to create and structure HTML tables for organizing tabular data.
+
+---
+
 ## 🎯 About This Learning Path
 
 This collection documents my progress through the **Saylani Mass IT Training Program (MWD Batch 23)**, focusing on HTML fundamentals and web development essentials.
@@ -62,7 +69,7 @@ This collection documents my progress through the **Saylani Mass IT Training Pro
 
 ## 🚀 Future Assignments
 
-As I progress through the course, additional assignments (06, 07, etc.) will be added to this hub. Each will follow the same structure with dedicated folders and links to their respective repositories.
+As I progress through the course, additional assignments (07, 08, etc.) will be added to this hub. Each will follow the same structure with dedicated folders and links to their respective repositories.
 
 ## 💡 Learning Resources
 
