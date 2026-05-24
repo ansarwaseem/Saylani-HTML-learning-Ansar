@@ -81,6 +81,7 @@ As I progress through the course, additional assignments (07, 08, etc.) will be 
 
 **Learner:** Ansar Waseem  
 **Program:** Saylani Mass IT Training - MWD Batch 23
+- [LinkedIn](https://www.linkedin.com/in/ansar-waseem-shamsi/)
 
 ---
 
