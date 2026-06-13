@@ -101,6 +101,7 @@ Next phase will focus on CSS styling and design principles.
 
 **Learner:** Ansar Waseem  
 **Program:** Saylani Mass IT Training - MWD Batch 23
+- **Email:** ansarwaseem313@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ansar-waseem-shamsi/)
 
 ---
