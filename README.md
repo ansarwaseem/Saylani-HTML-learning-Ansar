@@ -2,7 +2,7 @@
 
 Welcome to my comprehensive HTML learning journey at Saylani Mass IT Training! 🚀
 
-This repository serves as a **central hub** for all my HTML and HTML-related assignments from the **MWD Batch 23** program. Each assignment folder contains links to the respective repositories where the actual code and implementations are stored.
+This repository serves as a **central hub** for all my HTML and HTML-related assignments from the **MWD Batch 23** program. Each assignment folder contains links to the respective repositories where the complete code and implementations are hosted.
 
 ## 📚 Assignment Directory
 
@@ -48,6 +48,20 @@ Learn to create and structure HTML tables for organizing tabular data.
 
 ---
 
+### [Assignment 07 - Semantic HTML & Structure](./Assignment-07-Semantic-HTML)
+**Repository:** [Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-07-Semantic-HTML](https://github.com/ansarwaseem/Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-07-Semantic-HTML)
+
+Master semantic HTML5 elements and proper document structure for better accessibility and SEO.
+
+---
+
+### [Assignment 08 - HTML Best Practices & Project](./Assignment-08-Project)
+**Repository:** [Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-08-Project](https://github.com/ansarwaseem/Saylani-MWD-Batch-23-Ansar-Waseem-Assignment-08-Project)
+
+Complete a comprehensive HTML project incorporating all learned concepts and best practices.
+
+---
+
 ## 🎯 About This Learning Path
 
 This collection documents my progress through the **Saylani Mass IT Training Program (MWD Batch 23)**, focusing on HTML fundamentals and web development essentials.
@@ -56,6 +70,7 @@ This collection documents my progress through the **Saylani Mass IT Training Pro
 - **Batch:** MWD Batch 23
 - **Learner:** Ansar Waseem
 - **Focus:** HTML & Web Development Fundamentals
+- **Status:** ✅ HTML Section Complete
 
 ## 📝 How to Use This Repository
 
@@ -67,9 +82,14 @@ This collection documents my progress through the **Saylani Mass IT Training Pro
    - Learning objectives
    - Any additional resources
 
-## 🚀 Future Assignments
+## 🎓 Course Progress
 
-As I progress through the course, additional assignments (07, 08, etc.) will be added to this hub. Each will follow the same structure with dedicated folders and links to their respective repositories.
+### ✅ HTML Section (Complete)
+- Assignment 01 - 06: Core HTML Concepts
+- Assignment 07 - 08: Advanced HTML & Projects
+
+### ⏳ CSS Section (Coming Soon)
+Next phase will focus on CSS styling and design principles.
 
 ## 💡 Learning Resources
 
@@ -85,6 +105,6 @@ As I progress through the course, additional assignments (07, 08, etc.) will be 
 
 ---
 
-**Last Updated:** 2026-04-28
+**Last Updated:** 2026-05-10
 
 Happy Learning! 🎓
